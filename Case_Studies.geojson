@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Case_Studies",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Latitude": 38.88, "Longitude": -77.0, "Name": "Canal Park", "Address": "200 M St SE", "City": "Washington D.C", "Zip_Code": 20003, "Country": "USA", "Short_Description": "1.2 Hectare Park through Public-Private Partnership to address Combined Sewer Overflow in D.C.", "Completion_Date": 2012, "Lot Size (ha.)": 1.2, "Total Cost at time of Completion ($)": "20 million", "Needs_Challenges": "The site is in dense south-east DC withstanding issues related to CSO and stormwater run-off, as it is sitting on top of a city canal that used to connected the Anacostia River and the Potomac via the National Mall. In the early 1900s, this canal was paved over to create Canal Street.", "Project_Overview": "The Canal Park Development Association  (CPDA), established 2000, was a public-private partnership between the city and private developer WC Smith that secured the site from the city to tackle issues of CSO. Following an extensive design competition led by CPDA, ultimately OLIN+Studios Architecture was chosen as the lead designer. The proposal was a 3-block linear rain garden, with other filtration strategies. WC Smith was interested in re-generating this site due to its proximity to adjacent, partially-owned multifamily housing.", "Stakeholders": "WC Smith (developer), Anacostia Waterfront Corporation (gov. corp.), OLIN and Studios Architecture (designer), Vika Capitol\nNitsch Engineering, ", "Links": "a" }, "geometry": { "type": "Point", "coordinates": [ -77.0, 38.88 ] } }
-]
-}
